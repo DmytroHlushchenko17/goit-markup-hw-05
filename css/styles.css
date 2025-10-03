@@ -771,9 +771,6 @@ img {
 }
 
 .formochka-checkbox-label {
-  display: flex;
-  justify-content: center;
-  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 12px;
   line-height: 117%;
