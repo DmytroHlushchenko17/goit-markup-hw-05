@@ -795,6 +795,7 @@ img {
 }
 
 .formochka-checkbox-text {
+  display: inline-block;
   line-height: 133%;
   text-decoration: underline;
   text-decoration-skip-ink: none;
